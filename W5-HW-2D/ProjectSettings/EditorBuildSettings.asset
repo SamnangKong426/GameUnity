@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/RockPaperScissorScence.unity
+    guid: 505d5716003af0e45846734abc2fb6a0
+  - enabled: 1
+    path: Assets/Scenes/GameOverScence.unity
+    guid: e5caf32766b80c84799741a19272afa8
+  m_configObjects: {}
